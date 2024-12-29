@@ -1,0 +1,638 @@
+[
+  {
+    "id": 1,
+    "text": "You are stronger than you think. Believe in yourself!"
+  },
+  {
+    "id": 2,
+    "text": "Small steps are better than no steps. Take it one day at a time."
+  },
+  {
+    "id": 3,
+    "text": "Say it out loud: I don't know how, but I will! - Believe in yourself!"
+  },
+  {
+    "id": 4,
+    "text": "Try to be as positive as you can because a negative mind will never give you a positive life."
+  },
+  {
+    "id": 5,
+    "text": "What you don't change, you choose. Change something now, even if it is just the way you look at something. You are stronger than you think."
+  },
+  {
+    "id": 6,
+    "text": "If you are always trying to be normal, you will never know how amazing you can be. -Maya Angelou"
+  },
+  {
+    "id": 7,
+    "text": "You can't change the past, but you can change the future."
+  },
+  {
+    "id": 8,
+    "text": "When something is right for you, it will give you energy. That's how you know."
+  },
+  {
+    "id": 9,
+    "text": "Remember, you can: start late, start over, be insecure, act differently, try and fail. And still succeed."
+  },
+  {
+    "id": 10,
+    "text": "You are not a product of your circumstances. You are a product of your decisions. -Stephen R. Covey"
+  },
+  {
+    "id": 11,
+    "text": "Let it end. Let it hurt. Let it heal. Let it go."
+  },
+  {
+    "id": 12,
+    "text": "Stop trying to calm the storm. Calm yourself. The storm will pass."
+  },
+  {
+    "id": 13,
+    "text": "Energy flows where attention goes. - Here are a few energy givers you can try right now: drinking water, moving your body, breathing deeply, and giving love and gratitude to yourself and others."
+  }, 
+  {
+    "id": 14,
+    "text": "The rule is you have to dance a bit before you leave the house. It will change the way you go out into the world."
+  },
+  {
+    "id": 15,
+    "text": "You already have what it takes."
+  },
+  {
+    "id": 16,
+    "text": "You are your Home. Take care of it."
+  },
+  {
+    "id": 17,
+    "text": "Actually, you can!"
+  },
+  {
+    "id": 18,
+    "text": "Tell your people that you love them."
+  },
+  {
+    "id": 19,
+    "text": "Feel it to heal it."
+  },
+  {
+    "id": 20,
+    "text": "Don't wait until you are confident enough to show up, show up and become confident within."
+  },
+  {
+    "id": 21,
+    "text": "May all your delulu come trululu."
+  },
+  {
+    "id": 22,
+    "text": "Success begins with the decision to try."
+  },
+  {
+    "id": 23,
+    "text": "Watch more sunsets than Netflix."
+  },
+  {
+    "id": 24,
+    "text": "Every day is a chance to start fresh and do better than yesterday."
+  },
+  {
+    "id": 25,
+    "text": "Smile more; it costs nothing but means everything."
+  },
+  {
+    "id": 26,
+    "text": "You deserve to rest. Taking a break is part of the process."
+  },
+  {
+    "id": 27,
+    "text": "A key to success is to start before you are ready. -Marie Forleo"
+  },
+  {
+    "id": 28,
+    "text": "Sometimes, the smallest step in the right direction ends up being the biggest step of your life."
+  },
+  {
+    "id": 29,
+    "text": "Be proud of how far you've come and have faith in how far you can go."
+  },
+  {
+    "id": 30,
+    "text": "Kindness is free. Sprinkle it everywhere."
+  },
+  {
+    "id": 31,
+    "text": "When you focus on the good, the good gets better."
+  },
+  {
+    "id": 32,
+    "text": "Your vibe attracts your tribe. Keep your energy positive."
+  },
+  {
+    "id": 33,
+    "text": "Celebrate every win, no matter how small."
+  },
+  {
+    "id": 34,
+    "text": "You can do anything, but not everything. Focus on what matters most."
+  },
+  {
+    "id": 35,
+    "text": "The best time for new beginnings is now."
+  },
+  {
+    "id": 36,
+    "text": "If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely. - Roald Dahl"
+  },
+  {
+    "id": 37,
+    "text": "Sometimes, you have to create your own sunshine."
+  },
+  {
+    "id": 38,
+    "text": "Keep showing up. Your persistence will pay off."
+  },
+  {
+    "id": 39,
+    "text": "You are doing better than you think you are."
+  },
+  {
+    "id": 40,
+    "text": "Happiness is not out there; it's in you."
+  },
+  {
+    "id": 41,
+    "text": "Every day may not be good, but there is something good in every day. - Alice Morse Earle"
+  },
+  {
+    "id": 42,
+    "text": "Don't count the days; make the days count."
+  },
+  {
+    "id": 43,
+    "text": "The best view comes after the hardest climb."
+  },
+  {
+    "id": 44,
+    "text": "Your story is unique, and so is your journey. Embrace it."
+  },
+  {
+    "id": 45,
+    "text": "Mistakes are proof that you are trying."
+  },
+  {
+    "id": 46,
+    "text": "Focus on progress, not perfection."
+  },
+  {
+    "id": 47,
+    "text": "Shine so bright that others can't help but light up too."
+  },
+  {
+    "id": 48,
+    "text": "Your mindset is your superpower."
+  },
+  {
+    "id": 49,
+    "text": "A little progress each day adds up to big results."
+  },
+  {
+    "id": 50,
+    "text": "Dream big, start small, but most importantly, start."
+  },
+  {
+    "id": 51,
+    "text": "What feels like the end is often the beginning."
+  },
+  {
+    "id": 52,
+    "text": "In seeking happiness for others, you will find it in yourself."
+  },
+  {
+    "id": 53,
+    "text": "Happiness is not about getting all you want, it is about enjoying what you have."
+  },
+  {
+    "id": 54,
+    "text": "Eat like you love yourself. Move like you value yourself. Speak like your respect yourself. Live like you care for yourself."
+  },
+  {
+    "id": 55,
+    "text": "Don't use your energy to worry. Use your energy to believe, to create, to trust, to grow, to glow, to manifest and to heal."
+  },
+  {
+    "id": 56,
+    "text": "Happiness blooms from within."
+  },
+  {
+    "id": 57,
+    "text": "Your bad days are part of your good life."
+  },
+  {
+    "id": 58,
+    "text": "Focus on the step in front of you, not the whole staircase."
+  },
+  {
+    "id": 59,
+    "text": "Let your dreams be bigger than your fears."
+  },
+  {
+    "id": 60,    
+    "text": "Don't settle for less."
+  },
+  {
+    "id": 61,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  },
+  {
+    "id": 62,
+    "text": "You are the only one who can give you everything. Be good to yourself."
+  },
+  {
+    "id": 63,
+    "text": "Your circumstances will change, so know that you can always change your strategy. "
+  },
+  {
+    "id": 64,
+    "text": "Success is not final and failure is not fatal. What truly matters is having the courage to keep moving forward."
+  },
+  {
+    "id": 65,
+    "text": "The mind is everything. What you think you become. -Buddha"
+  },
+  {
+    "id": 66,
+    "text": "The best time to plant a tree was 20 years ago. The second best time is now. -Chinese Proverb"
+  },
+  {
+    "id": 67,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  },
+  {
+    "id": 68,
+    "text": "You cannot give your life more days, but you can give your days more life."
+  },
+  {
+    "id": 69,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  },  
+  {
+    "id": 70,
+    "text": "If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. -Vincent Van Gog"
+  },
+  {
+    "id": 71,
+    "text": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing. -Aristotle"
+  },
+  {
+    "id": 72,
+    "text": "If you don't like something, change it. If you can't change it, change your attitude. - Maya Angelou"
+  },
+  {
+    "id": 73,
+    "text": "Everything is going to be okay."
+  },
+  {
+    "id": 74,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  },
+  {
+    "id": 75,
+    "text": "You carry so much love in your heart. Share it with the world but most importantly with yourself."
+  },
+  {
+    "id": 76,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  },
+  {
+    "id": 77,
+    "text": "Living, loving, healing and learning."
+  },
+  {
+    "id": 78,
+    "text": "May you be released from the grip of things you cannot control."
+  },
+  {
+    "id": 79,
+    "text": "There is peace in surrender. There is healing in forgiveness. There is light through struggle. There is love in connection."
+  },  
+  {
+    "id": 80,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  }, 
+  {
+    "id": 81,
+    "text": "May you attract abundance in every form. Love, health, peace, wealth and joy."
+  },
+  {
+    "id": 82,
+    "text": "Make yourself a priority. Make yourself happy. Don't expect others to make you happy. It's your responsibility."
+  },
+  {
+    "id": 83,
+    "text": "Passion and purpose over perfection."
+  },
+  {
+    "id": 84,
+    "text": "You have cried, laughed, loved, lost, won, failed, won, loved. But most of all, you've learned."
+  },  
+  {
+    "id": 85,
+    "text": "You have control over your life, always remember that."
+  },
+  {
+    "id": 86,
+    "text": "Your work. Your growth. Your relationships. Your health. Your happiness. Your life. Consistency makes a difference."
+  },
+  {
+    "id": 87,
+    "text": "Perfection distracts you from progress. Focus on progress, not perfection."
+  },
+  {
+    "id": 88,
+    "text": "Being thankful brings happiness. Happiness brings love. Love brings peace. Peace brings joy. Joy brings abundance."
+  },
+  {
+    "id": 89,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  },
+  {
+    "id": 90,
+    "text": "If you don't know what you want, ask yourself what you want to feel. Because it is all about the feeling. Do you want to feel safe, loved, free, happy, what are the things you need to feel that way and what are the steps you need to take?"
+  },
+  {
+    "id": 91,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  },
+  {
+    "id": 92,
+    "text": "Someone elses drama and problems are not yours to fix."
+  },
+  {
+    "id": 93,
+    "text": "Most of the time there is no right or wrong decision. Everything is a compromise."
+  }, 
+  {
+    "id": 94,
+    "text": "You have to make a lot of decisions every day. Not every decision turns out to be the better one, accept that, that's OK, you didn't have all the information at the time. "
+  },  
+  {
+    "id": 95,
+    "text": "Learn Everything. So you can Be Anything."
+  }, 
+  {
+    "id": 96,
+    "text": "When you're out of ideas, make old ideas bigger."
+  },
+  {
+    "id": 97,
+    "text": "Your mind will believe what you continuously tell it. So tell it that you are smart, ambitious, fearless and you have what it takes to succeed."
+  },  
+  {
+    "id": 98,
+    "text": "Surround yourself with friends who make abnormally large goals feel normal."
+  },
+  {
+    "id": 99,
+    "text": "The career. The love. The life. You deserve it all."
+  },
+  {
+    "id": 100,
+    "text": "Self-love is the balance between accepting yourself as you are while knowing you deserve better, and then working towards it."
+  }, 
+  {
+    "id": 101,
+    "text": "I'm so proud of how hard you're trying."
+  },  
+  {
+    "id": 102,
+    "text": "No one has life all figured out. We are all hurting and learning and growing in different ways. Keep going."
+  },
+  {
+    "id": 103,
+    "text": "People will love you, people will hate you and none of it will have anything to do with you."
+  },  
+  {
+    "id": 104,
+    "text": "The best revenge is none. Heal, move on, and don't become like those who hurt you."
+  },  
+  {
+    "id": 105,
+    "text": "You deserve to be happy. Not tired, not hurt, not stressed. Just happy."
+  },
+  {
+    "id": 106,
+    "text": "Don't make yourself small for anyone. Be the awkward, intelligent, funny, beautiful weirdo that you are. Don't hold back. Just be yourself."
+  } ,
+  {
+    "id": 107,
+    "text": "Imagine just trying it out and if it doesn't work, it's okay."
+  },            
+  {
+    "id": 108,
+    "text": "Changing your mindset from 'I hope I can do this' to 'I'm going to make this shit happen' is a game changer."
+  },
+  {
+    "id": 109,
+    "text": "Don't worry about starting over, you might like your new story better."
+  },
+  {
+    "id": 110,
+    "text": "What if everything turned out exactly as you had always wished, or even better?"
+  },  
+  {
+    "id": 111,
+    "text": "What happened when I changed 'what if it doesn't work?' into 'what if everything does?'"
+  },
+  {
+    "id": 112,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  },
+  {
+    "id": 113,    
+    "text": "Don't fake it til you make it. That's garbage advice. Face it til you make it. Get up. Work hard. Fail. Stand back up. Face it again. Do a little better. Fail again. Get back up."
+  },
+  {
+    "id": 114,
+    "text": "Shinrin Yoku - Spend time in nature. Scientifically proven to reduce stress and improve mood."
+  },  
+  {
+    "id": 115,
+    "text": "Don't get distracted. You have dreams to chase, not people to impress. Wake up."
+  },  
+  {
+    "id": 116,
+    "text": "You don't have to finish your to-do list, realise that you don't have to earn rest."
+  },
+  {
+    "id": 117,
+    "text": "You are worthy. You always will be."
+  },  
+  {
+    "id": 118,
+    "text": "Knowing when to leave is so important. The party. The job. The relationship."
+  },  
+  {
+    "id": 119,
+    "text": "Here you can borrow my faith in you, if you have lost yours, until you find yours again."
+  },
+  {
+    "id": 120,
+    "text": "Any dream worth chasing requires a healthy dose of delusion."
+  },  
+  {
+    "id": 121,
+    "text": "When you're on the ground, roll onto your back. Then you can look at the stars until you have the strength to get up."
+  },  
+  {
+    "id": 122,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  },  
+  {
+    "id": 123,
+    "text": "If you're not obsessed with your life, change it."
+  },  
+  {
+    "id": 124,
+    "text": "Repeat: Everything I need I already have. Everything I have is all that I need. Everything I desire I will receive. Because my reality is created by me."
+  },  
+  {
+    "id": 125,
+    "text": "Take a moment to celebrate the person you've become; the obstacles you've overcome, the quiet battles you've fought and the hard choices you've had to make. Celebrate your strength and your resilience."
+  },  
+  {
+    "id": 126,
+    "text": "Most of your stress comes from the way you react to life, not the way life is. Change your attitude and leave the stress behind."
+  },  
+  {
+    "id": 127,
+    "text": "Visualise yourself as the person you want to be. Then begin to take on that identity. Dress like that person, act like that person, eat that food. Let their routines become yours. Eventually your differences will blur."
+  },  
+  {
+    "id": 128,
+    "text": "If you're taking a break, you're taking it! You are not lazy, you are in energy saving mode."
+  },  
+  {
+    "id": 129,
+    "text": "Be proud of the progress you have made that no one else has seen."
+  },
+  {
+    "id": 130,
+    "text": "If you choose yourself, everything around you will choose you."
+  },  
+  {
+    "id": 131,
+    "text": "Everything feels difficult when you're about to level up. Don't quit."
+  },  
+  {
+    "id": 132,
+    "text": "If it makes you happy, then it is not a waste of time."
+  },  
+  {
+    "id": 133,
+    "text": "Your aura is gorgeous because you make souls feel seen, heard, validated, loved, understood, and supported."
+  },  
+  {
+    "id": 134,
+    "text": "Peace comes when: you realize everything that's out of your control should be out of your mind too."
+  },
+  {
+    "id": 135,
+    "text": "Finding moments that make your soul come alive."
+  },
+  {
+    "id": 136,
+    "text": "I think I don't want to do this anymore, is a good reason."
+  },  
+  {
+    "id": 137,
+    "text": "There is a past version of you that is so proud of how far you have come."
+  },
+  {
+    "id": 138,
+    "text": "If you're serious about changing your life, you'll find a way. If not, you'll find an excuse."
+  },
+  {
+    "id": 139,
+    "text": "You are not stressed because you do too much. You are stressed because you do too little of what makes you feel most alive."
+  },
+  {
+    "id": 140,
+    "text": "When something is meant for you it will bring you peace and clarity not chaos and confusion."
+  },
+  {
+    "id": 141,
+    "text": "You will find a way, no matter what."
+  },
+  {
+    "id": 142,
+    "text": "Life is about moments; don't wait for them, create them."
+  },  
+  {
+    "id": 143,
+    "text": "You'll always feel a little bit lost right before you find yourself again."
+  },  
+  {
+    "id": 144,
+    "text": "In a couple of years it won't even matter how long it took. You'll just be glad you did it."
+  },  
+  {
+    "id": 145,
+    "text": "Change is hard at first, messy in the middle and gorgeous at the end. -Robin Sharma"
+  },
+  {
+    "id": 146,
+    "text": "Consistency is everything. It's the gap between where you are and where you want to be."
+  },
+  {
+    "id": 147,
+    "text": "You have two 2 choices: use your energy to worry; or you can use your energy to believe, enjoy, create, manifest, heal, grow, and glow."
+  },  
+  {
+    "id": 148,
+    "text": "What kind of day do you want to have?"
+  },  
+  {
+    "id": 149,
+    "text": "Ask yourself if what you are doing today is getting you closer to where you want to be tomorrow."
+  },
+  {
+    "id": 150,
+    "text": "Do me a favor, smile!"
+  },
+  {
+    "id": 151,
+    "text": "May your choices reflect your hopes, not your fears."
+  },
+  {
+    "id": 152,
+    "text": "There is no right time. There is just time and what you choose to do with it."
+  },
+  {
+    "id": 153,
+    "text": "Whatever your adventure is, small or big, set a date and commit to it."
+  },
+  {
+    "id": 154,
+    "text": "Here are some tips to make each day better: Get some fresh air, listen to some uplifting music, join in and dance if you can, smell something nice like flowers, spices, morning glow or whatever you find, drink a big glass of water, and smile."
+  },
+  {
+    "id": 155,
+    "text": "Apply for that job. Ask for that raise. Date that person, buy that plane ticket. Move to that city. Do all the things you want to do, even if it scares you, because it is worth it."
+  },  
+  {
+    "id": 156,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  },    
+  {
+    "id": 157,
+    "text": "Your life is as good as your mindset."
+  },  
+  {
+    "id": 158,
+    "text": "This is your sign that everything is going to work out."
+  },  
+  {
+    "id": 159,
+    "text": "You are not a product of your circumstances. You are a product of your decisions."
+  }
+]

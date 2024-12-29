@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "daily-quote-app",
-    "slug": "daily-quote-app",
+    "name": "Helaas Pindakaas",
+    "slug": "helaas-pindakaas",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/img/appIcon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -12,16 +12,36 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.maluschy.helaaspindakaas",
+      "buildNumber": "1"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/img/appIcon.png",
+        "backgroundColor": "#CCC6C0"
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#ffffff"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2d3d8367-2f54-4a5e-83b0-f2439aed9887"
+      }
+    },
+    "notification": {
+      "sound": false
     }
   }
 }
