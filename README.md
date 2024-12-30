@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Helaas Pindakaas - Daily Quote App
 
 A mobile app that delivers daily inspirational quotes to brighten your day.
@@ -26,8 +25,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Installation
 
-1. Clone the repository 
-=======
-# HelaasPindakaas
-Helaas Pindakaas is an open-source quote app built with React Native and Expo. It provides daily inspiration through carefully curated quotes.
->>>>>>> aa3fee1b8d00d8f11ac373c3f8318220094aa8df
+1. Clone the repository
