@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { StyleSheet, Text, View, TouchableOpacity, Alert, Image } from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity, Alert, Image, Dimensions } from 'react-native';
 import { useFonts } from 'expo-font';
 import quotesData from './assets/quotes.json';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
@@ -18,45 +18,47 @@ type Props = {
   navigation: NativeStackNavigationProp<RootStackParamList>;
 };
 
+const { height } = Dimensions.get('window');
+const dynamicTopPadding = height > 700 ? 10 : 30;
+
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#CCC6C0',
     paddingHorizontal: 20,
-    paddingTop: 120,
-    paddingBottom: 100,
+    paddingTop: dynamicTopPadding,
+    paddingBottom: 20,
   },
   content: {
     flex: 1,
-    justifyContent: 'flex-start',
+    justifyContent: 'center', 
     alignItems: 'center',
-  },
-  dateTimeContainer: {
-    flexDirection: 'row',
-    justifyContent: 'center',
-    marginBottom: 10,
-  },
-  dateTimeText: {
-    fontSize: 18, // Smaller text for date and time
-    color: '#413A35',
   },
   quoteText: {
-    fontSize: 28, // Slightly bigger quote
+    fontSize: 24,
     textAlign: 'center',
     color: '#413A35',
-    marginTop: 20,
-    marginBottom: 30,
+    marginTop: 10,
+    marginBottom: 15,
     paddingHorizontal: 10,
   },
+  image: {
+    width: 150,
+    height: 150,
+    resizeMode: 'contain',
+    marginVertical: 10,
+  },
   buttonContainer: {
-    justifyContent: 'flex-end',
+    width: '100%',
+    justifyContent: 'center',
     alignItems: 'center',
-    marginBottom: 30, // Push the button further down
+    marginBottom: 20,
   },
   button: {
-    backgroundColor: '#CCC6C0', // Same as app background
-    borderColor: '#413A35', // Border color same as text
-    borderWidth: 1, // Thin frame
+    backgroundColor: '#CCC6C0',
+    borderColor: '#413A35',
+    borderWidth: 1,
     borderRadius: 5,
     paddingVertical: 10,
     paddingHorizontal: 20,
@@ -66,11 +68,13 @@ const styles = StyleSheet.create({
     fontSize: 18,
     color: '#413A35',
   },
-  image: {
-    width: 200,
-    height: 200,
-    resizeMode: 'contain',
-    marginVertical: 20,
+  dateTimeContainer: {
+    alignItems: 'center',
+    marginBottom: 20,
+  },
+  dateTimeText: {
+    fontSize: 18,
+    color: '#413A35',
   },
 });
 
